@@ -1,2 +1,2 @@
-Jessica is a bad girl
-Jessica is a good sister
+Git is a distributed version control system.
+Git is free software.
